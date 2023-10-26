@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+import As from "./components/As-1"
 import './App.css';
-import { Calculator } from './components/Calculator';
+
 function App() {
   return (
-    <div className="App">
-     <Calculator/>
+    <div>
+      <As/>
     </div>
   );
 }
